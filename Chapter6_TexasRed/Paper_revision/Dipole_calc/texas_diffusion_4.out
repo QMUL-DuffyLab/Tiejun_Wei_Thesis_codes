@@ -1,0 +1,5 @@
+#Set     TEXAS_RED[D] TEXAS_RED[Slope] TEXAS_RED[Intercept] TEXAS_RED[Corr] TEXAS_RED[Label]
+       1       0.1402           0.0841              20.3962          0.9535  TEXAS_RED_AvgDr
+       2       0.2556           0.0511              -6.4575          0.9096  TEXAS_RED_AvgDx
+       3       0.0683           0.0137              27.4640          0.6394  TEXAS_RED_AvgDy
+       4       0.0967           0.0193              -0.6102          0.9289  TEXAS_RED_AvgDz
